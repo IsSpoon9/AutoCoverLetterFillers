@@ -61,7 +61,6 @@ The program will search for these tags and replace them automatically.\[Date] â†
 ###### -- Notes --
 
 Somethings to note about this program are:
-
-* The program may not work perfectly with very complex or heavily formatted documents.
+* Always verify the final product
 * If you encounter any bugs or errors, please report them via GitHub or message me on Discord at is\_spoon9.
 * More features and updates may happen later on.
